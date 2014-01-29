@@ -16,5 +16,5 @@ fetchChinese
 ```
 
 **ToDo**：
-1. 修改输出文件后，反向需该替代中文字符（action:reverse）
+1. 修改输出文件后作为输入，反向替代中文字符（action:reverse）
 2. 从svn/git等获取项目文件后，探测文件内容
