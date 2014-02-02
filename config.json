@@ -1,0 +1,20 @@
+{
+	"Comments":
+	{
+		".cs":{
+			"SingleLine_Begin":"//",
+			"Multiline_Begin":"/*",
+			"Multiline_End":"*/"
+		},
+		".cshtml":{
+			"SingleLine_Begin":"@*",
+			"Multiline_Begin":"@*",
+			"Multiline_End":"*@"
+		},
+		".js":{
+			"SingleLine_Begin":"//",
+			"Multiline_Begin":"/*",
+			"Multiline_End":"*/"
+		}
+	}
+}
